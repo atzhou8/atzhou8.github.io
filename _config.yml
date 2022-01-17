@@ -31,7 +31,7 @@ curriculum:
 
 # Build settings
 markdown: kramdown
-# theme: academic
+theme: academic
 plugins:
   - jekyll-feed
 
