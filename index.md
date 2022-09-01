@@ -9,8 +9,8 @@ seo:
     title: Alan Zhou
 ---
 
-Hi! My name is Alan, and I recent graduated from UC Berkeley in December 2021 with a dual bachelor's in Computer Science and Cognitive Science. I am interested in the relationship between language and cognition, and in computational models of both. More specifically, I am interested in using insights from linguistics and neuroscience to build and interpret computational models of language, and leveraging insights from these models to better understand how humans acquire and use language. 
+Hi! I am a first year PhD student in the [Department of Cognitive Science] at Johns Hopkins University, advised by [Colin Wilson]. My interests are in computational linguistics and computational cognitive science-- how can we build computational models that represent and process language in more human-like ways?
 
-Currently, I'm fortunate to be part of the Berkeley Speech and Computation Lab, working with Dr. Gašper Beguš on multiple projects involving generative adversarial networks trained on speech data. Before that, I was graciously mentored by Dr. Taka'aki Taira for a data science project creating a seismological stress map of Northern California.
+Before coming to JHU, I completed a B.A. in Cognitive Science and Computer Science at the University of California, Berkeley. While there, I worked with Gašper Beguš studying phonological representations in generative adversarial networks trained on speech data.
 
 See a copy of my CV [here](assets/pdf/CV.pdf).
