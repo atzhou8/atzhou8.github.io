@@ -15,12 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: Alan Zhou
 description: >- # this means to ignore newlines until "baseurl:"
-  Undergraduate student at UC Berkeley interested in computational models of language and cognition.
+  PhD Student in Cognitive Science at Johns Hopkins University
 baseurl: ""
 url: ""
 
 # Author
-email: azhou314@berkeley.edu
+email: azhou23@jhu.edu
 github_username:  atzhou8
 twitter_username: atzhou8
 # linkedin_username: atzhou8
