@@ -11,6 +11,6 @@ seo:
 
 Hi! I am a first year PhD student in the [Department of Cognitive Science](https://cogsci.jhu.edu/) at Johns Hopkins University, advised by [Colin Wilson](https://colincwilson.github.io/). My interests are in computational linguistics and computational cognitive science-- how can we build computational models that represent and process language in more human-like ways?
 
-Before coming to JHU, I completed a B.A. in Cognitive Science and Computer Science at the University of California, Berkeley. While there, I worked with [Gašper Beguš](https://gbegus.github.io/) studying phonological representations in generative adversarial networks trained on speech data.
+Before coming to JHU, I completed a B.A. in Cognitive Science and Computer Science at the University of California, Berkeley. While there, I was fortunate to work with [Gašper Beguš](https://gbegus.github.io/) studying phonological representations in generative adversarial networks trained on speech data.
 
 See a copy of my CV [here](assets/pdf/CV.pdf).
