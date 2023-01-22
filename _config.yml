@@ -27,12 +27,7 @@ twitter_username: atzhou8
 
 curriculum:
   name: Curriculum vitae
-  url: https://atzhou8.github.io/assets/pdf/CV.pdf
-
-
-nav_ext_links:
-  - name: CV
-    url: http://jupiterbroadcasting.com/
+  url: assets/pdf/CV.pdf
 
 # Build settings
 markdown: kramdown
