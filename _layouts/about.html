@@ -21,6 +21,11 @@ layout: default
         {% include _icons/file.html curriculum=site.curriculum %}
       </li>
       {% endif %}
+      {% if site.scholar_userid %}
+      <li>
+        {% include _icons/scholar.html userid=site.scholar_userid %}
+      </li>
+      {% endif %}
     </ul>
 
     <ul class="contact-list">
